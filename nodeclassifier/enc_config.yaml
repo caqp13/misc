@@ -1,0 +1,9 @@
+role_mappings:
+  tes:
+    "01": "test_master"
+    "02": "test_slave"
+    default: "test"
+  mgt:
+    "01": "management_server"
+    default: "basic_server"
+  jen: "jenkins_master"
