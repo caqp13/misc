@@ -7,3 +7,5 @@ role_mappings:
     "01": "management_server"
     default: "basic_server"
   jen: "jenkins_master"
+  mqs:
+    "01": "mqserver_master"
