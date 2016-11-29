@@ -9,3 +9,5 @@ role_mappings:
   jen: "jenkins_master"
   mqs:
     "01": "mqserver_master"
+  jbo:
+    "01": "jboss_master"
