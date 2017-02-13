@@ -11,3 +11,5 @@ role_mappings:
     "01": "mqserver_master"
   jbo:
     "01": "jboss_master"
+  git:
+    "01": "git_master"
